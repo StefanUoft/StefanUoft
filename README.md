@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/schen007/**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/schen007/](https://www.linkedin.com/in/schen007/)
-
 - ⚡ Fun fact **I love yoga, hiking, food adventures, and spending time with my two dogs!**
 
 <h3 align="left">Connect with me:</h3>
