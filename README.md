@@ -6,12 +6,13 @@
 - 🌱 I'm currently learning about **distributed systems, software testing, and automation**.
 
 - 💬 Ask me about **Web development, software design, user experience, or fun hiking trails!**
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/schen007/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="30" height="30"/>
-  </a>
 
 - ⚡ Fun fact: **I love yoga, hiking, food adventures, and spending time with my two dogs!**
-
+  
+<h3 align="left">How to reach me:</h3>
+<a href="https://www.linkedin.com/in/schen007/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="30" height="30" style="vertical-align: middle;"/>
+  </a>
 <h3 align="left">Languages:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
