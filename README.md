@@ -6,8 +6,9 @@
 - 🌱 I'm currently learning about **distributed systems, software testing, and automation**.
 
 - 💬 Ask me about **Web development, software design, user experience, or fun hiking trails!**
-
-- 📫 How to reach me **https://www.linkedin.com/in/schen007/**
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/schen007/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="30" height="30"/>
+  </a>
 
 - ⚡ Fun fact: **I love yoga, hiking, food adventures, and spending time with my two dogs!**
 
