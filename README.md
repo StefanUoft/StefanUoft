@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Stefan</h1>
-<h3 align="center">Software Developer | Building User-Focused Solutions that Drive Business Results</h3>
+<h1 align="left">Hi 👋, I'm Stefan</h1>
+<h3 align="left">Software Developer | Building User-Focused Solutions that Drive Business Results</h3>
 
 - 🔭 I'm currently a **graduate student at the University of Toronto**, pursuing a dual concentration in **Information Systems and User Experience Design**.
 
